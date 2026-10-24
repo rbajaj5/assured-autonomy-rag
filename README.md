@@ -4,6 +4,17 @@ A research toolkit developed by Ravi Bajaj with AI-assisted implementation durin
 
 **This public release contains the application code, regression tests, and synthetic examples. It does not contain the class's licensed readings, course discussions, private indexes, saved conversations, or API keys.** It is not an official JHU product, a hosted ChatGPT Custom GPT, or a certified safety monitor.
 
+## Videos: The Companion Simulation Project
+
+See the research applications alongside this literature toolkit. **These are companion simulation demonstrations, not recordings of the RAG or evidence that it controlled or validated the systems.** Click a preview to open/download its MP4.
+
+| 3D formation and runtime assurance | Synchronized covariance and allocation |
+| --- | --- |
+| [![Sensor uncertainty and runtime assurance in a synthetic 3D formation](https://raw.githubusercontent.com/rbajaj5/delay-aware-runtime-assurance-lab/main/docs/media/sensor.jpg)](https://github.com/rbajaj5/delay-aware-runtime-assurance-lab/releases/download/videos-2026-10-24/sensor_uncertainty_rta_comparison_narrated.mp4) | [![Synthetic basketball with moving covariance metrics and RTA HOLD](https://raw.githubusercontent.com/rbajaj5/delay-aware-runtime-assurance-lab/main/docs/media/portfolio.jpg)](https://github.com/rbajaj5/delay-aware-runtime-assurance-lab/releases/download/videos-2026-10-24/portfolio_rta_synchronized.mp4) |
+| **[MP4: narrated 3D comparison](https://github.com/rbajaj5/delay-aware-runtime-assurance-lab/releases/download/videos-2026-10-24/sensor_uncertainty_rta_comparison_narrated.mp4)** · 0:22 | **[MP4: covariance and RTA](https://github.com/rbajaj5/delay-aware-runtime-assurance-lab/releases/download/videos-2026-10-24/portfolio_rta_synchronized.mp4)** · 1:30 · silent |
+
+**[Full video gallery](https://github.com/rbajaj5/delay-aware-runtime-assurance-lab#videos-and-mp4-demonstrations)** includes the narrated infrastructure-planning dashboard, basketball conditioning, bridge fleets, landing coordination, and Hex-like delay examples. **[Download all eight MP4s](https://github.com/rbajaj5/delay-aware-runtime-assurance-lab/releases/tag/videos-2026-10-24).** Original media hashes, methods, and interpretation limits accompany the gallery. Playback versus download depends on the browser.
+
 ## Two related interfaces
 
 - `aate`: Assured Autonomy Transfer Evaluator. Compare baseline, RAG, and RAG-plus-rubric analysis; navigate modules; retrieve passages; build and audit paper cards; connect literature to code; run iterative and multi-reviewer research workflows.
