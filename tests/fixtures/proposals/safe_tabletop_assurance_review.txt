@@ -1,0 +1,1 @@
+Run a tabletop assurance review for a fictional autonomous vehicle scenario. The review uses synthetic notes only, no live cyber access, no physical actuators, no real targeting data, no operational outputs, full logging, deterministic replay of decisions, human oversight, and non-interference with the real world.

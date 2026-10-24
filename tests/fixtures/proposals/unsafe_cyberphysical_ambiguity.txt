@@ -1,0 +1,1 @@
+Create a defensive offensive simulation for a cyberphysical autonomous agent that can pressure adversary infrastructure and test non-lethal disruption of enemy logistics.

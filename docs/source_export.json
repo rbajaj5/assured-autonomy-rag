@@ -1,0 +1,588 @@
+{
+  "date": "2026-10-24",
+  "source_project": "RAGforAssurredAutonomy",
+  "files": [
+    {
+      "source_relative_path": "aate/__init__.py",
+      "source_sha256": "30d0dcd3d623a9e764253ab79adedbdc62b15516cdae416558560402db325cda",
+      "initial_export_sha256": "30d0dcd3d623a9e764253ab79adedbdc62b15516cdae416558560402db325cda",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "aate/__main__.py",
+      "source_sha256": "e34737246c4338a78411d7cac39a3a03c13fae12bd7c5bfc01896677e9e0b5c2",
+      "initial_export_sha256": "e34737246c4338a78411d7cac39a3a03c13fae12bd7c5bfc01896677e9e0b5c2",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "agentic_rag.py",
+      "source_sha256": "d031c55b834545248656098d49715b026c95f6696b0d1c5b1b0d813d536fdfeb",
+      "initial_export_sha256": "d031c55b834545248656098d49715b026c95f6696b0d1c5b1b0d813d536fdfeb",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "analyze.py",
+      "source_sha256": "db3e77b748d5722174cd07c4d75eecad179a57e849a6c3eafe16b71bf6457a59",
+      "initial_export_sha256": "db3e77b748d5722174cd07c4d75eecad179a57e849a6c3eafe16b71bf6457a59",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assurance_case_cards.py",
+      "source_sha256": "2cab58232d522aa1b2741b5f473a6cd9b3e6595b0a9a263777cafcb505121b0e",
+      "initial_export_sha256": "2cab58232d522aa1b2741b5f473a6cd9b3e6595b0a9a263777cafcb505121b0e",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/__init__.py",
+      "source_sha256": "76ec55560afbb019e92de047695ca776b7c653b5b55680517abc30b26cafb792",
+      "initial_export_sha256": "76ec55560afbb019e92de047695ca776b7c653b5b55680517abc30b26cafb792",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/api_keys.py",
+      "source_sha256": "b3cc0ec17fa0a96f94c574c0b8e0c413b61f5e69ef9b830d0da663bfe98dfb53",
+      "initial_export_sha256": "b3cc0ec17fa0a96f94c574c0b8e0c413b61f5e69ef9b830d0da663bfe98dfb53",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/backend_compare.py",
+      "source_sha256": "39ce091f4ec81dd4f1f4daab9af74d43935a4a89e53f5418bbdb509a18a624bf",
+      "initial_export_sha256": "39ce091f4ec81dd4f1f4daab9af74d43935a4a89e53f5418bbdb509a18a624bf",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/backend_stability.py",
+      "source_sha256": "57331e7891d388a5f87ae48b4a912ee100e1da049cfddc3bec90b6927ab9f324",
+      "initial_export_sha256": "57331e7891d388a5f87ae48b4a912ee100e1da049cfddc3bec90b6927ab9f324",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/blind_spot_atlas.py",
+      "source_sha256": "6eccbff53086fd0b593aeddd8217ffefe3c1a22580eb13af5c081896c44b0690",
+      "initial_export_sha256": "6eccbff53086fd0b593aeddd8217ffefe3c1a22580eb13af5c081896c44b0690",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/claims.py",
+      "source_sha256": "010849f27e8ab45b3b4351b7326dcbc6d6c97e907155c8f05cab628bfee5ff2c",
+      "initial_export_sha256": "010849f27e8ab45b3b4351b7326dcbc6d6c97e907155c8f05cab628bfee5ff2c",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/coverage.py",
+      "source_sha256": "9dea6a77c31d9b0d8606a16a690ffcb26cff8c1adf8254e5c245d64b94542fcb",
+      "initial_export_sha256": "9dea6a77c31d9b0d8606a16a690ffcb26cff8c1adf8254e5c245d64b94542fcb",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/decision.py",
+      "source_sha256": "54264fd69dd7f336b4588626e72de3971360dfef5be55d5647d76fd78ef542dd",
+      "initial_export_sha256": "54264fd69dd7f336b4588626e72de3971360dfef5be55d5647d76fd78ef542dd",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/disagreement_analysis.py",
+      "source_sha256": "d2cf1908123093b83c36069f253614db1c8fca16cc9d3da6affe2d20487c7ab7",
+      "initial_export_sha256": "d2cf1908123093b83c36069f253614db1c8fca16cc9d3da6affe2d20487c7ab7",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/documents.py",
+      "source_sha256": "1b8b6536538cc801a29f117a42ab14214c3e90918d60fc924318acb8374dbeeb",
+      "initial_export_sha256": "1b8b6536538cc801a29f117a42ab14214c3e90918d60fc924318acb8374dbeeb",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/evaluate.py",
+      "source_sha256": "ee931bef37e01caefb5a2fad0647c7c5299f1526a19e106bd270486f64cd1e63",
+      "initial_export_sha256": "ee931bef37e01caefb5a2fad0647c7c5299f1526a19e106bd270486f64cd1e63",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/evidence_retrieval.py",
+      "source_sha256": "336c6e8b500db1e5ca3a985a14ccc61ffa239a9e0d8fdac67025a6769f485741",
+      "initial_export_sha256": "336c6e8b500db1e5ca3a985a14ccc61ffa239a9e0d8fdac67025a6769f485741",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/external_judge.py",
+      "source_sha256": "8778f15ba1297f320f30bc95a0aafff19996cd348f05d722abba1b55a70c9b38",
+      "initial_export_sha256": "8778f15ba1297f320f30bc95a0aafff19996cd348f05d722abba1b55a70c9b38",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/judge_stress.py",
+      "source_sha256": "befcb9e61445ba9ba437f3b0ff3fe5eca8eaab284c2b6bfcb34a8128efa11349",
+      "initial_export_sha256": "befcb9e61445ba9ba437f3b0ff3fe5eca8eaab284c2b6bfcb34a8128efa11349",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/llm_review.py",
+      "source_sha256": "14b27b356a4aed880bbba50845a4d6237b64e9196b0d22da3eacded90405c15f",
+      "initial_export_sha256": "14b27b356a4aed880bbba50845a4d6237b64e9196b0d22da3eacded90405c15f",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/mistral_batch.py",
+      "source_sha256": "d55cde0ee2cb4096ee159d59ee13e1873bbc263cddf31758ea17c238a681bd42",
+      "initial_export_sha256": "d55cde0ee2cb4096ee159d59ee13e1873bbc263cddf31758ea17c238a681bd42",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/mistral_stability.py",
+      "source_sha256": "24c33881e10b64f42bce60d4927a28e6924aec7279806fd7bf66809278cdde85",
+      "initial_export_sha256": "24c33881e10b64f42bce60d4927a28e6924aec7279806fd7bf66809278cdde85",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/module_confusion.py",
+      "source_sha256": "02f8ce97698a812bb130d2b48bc9857f531227a8894f84bae017920855a40acc",
+      "initial_export_sha256": "02f8ce97698a812bb130d2b48bc9857f531227a8894f84bae017920855a40acc",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/module_confusion_backend_compare.py",
+      "source_sha256": "703fa41bedad4d725f38991e1caf5152e9b27f1451925af9fcb8d4de519c4df5",
+      "initial_export_sha256": "703fa41bedad4d725f38991e1caf5152e9b27f1451925af9fcb8d4de519c4df5",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/module_confusion_sensitivity.py",
+      "source_sha256": "91fdf4a854cb06589811e029abaea52a7c24374fff62c3550b1a32c6517d4d5b",
+      "initial_export_sha256": "91fdf4a854cb06589811e029abaea52a7c24374fff62c3550b1a32c6517d4d5b",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/openai_model_sweep.py",
+      "source_sha256": "29b352b2e6e086b3d06504242b38e9ee59553dc1e29d8cf5d53404eb10c61d76",
+      "initial_export_sha256": "29b352b2e6e086b3d06504242b38e9ee59553dc1e29d8cf5d53404eb10c61d76",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/operator_approved_error_analysis.py",
+      "source_sha256": "a6deb9ad0cb7ca4344c3215bed2b63bcdefb346f4fac7e4bac5dffdf5194542f",
+      "initial_export_sha256": "a6deb9ad0cb7ca4344c3215bed2b63bcdefb346f4fac7e4bac5dffdf5194542f",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/paper_card_audit.py",
+      "source_sha256": "99aedfbfebb4de51a9eacf7559456a79a916dcaecda60e5b43e6ec804bc056d7",
+      "initial_export_sha256": "99aedfbfebb4de51a9eacf7559456a79a916dcaecda60e5b43e6ec804bc056d7",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/paper_confusion_attribution.py",
+      "source_sha256": "5defad69a81c4c9218a66fcf7f166430f93c5ad1c7c7dca7b6ad611f3a3e530f",
+      "initial_export_sha256": "5defad69a81c4c9218a66fcf7f166430f93c5ad1c7c7dca7b6ad611f3a3e530f",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/pipeline.py",
+      "source_sha256": "52c5ec4822f16ad1d8e43a704404ebf060a91d9fc2ae7c24eb0a9f381e81fa94",
+      "initial_export_sha256": "52c5ec4822f16ad1d8e43a704404ebf060a91d9fc2ae7c24eb0a9f381e81fa94",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/principal_distilled_ablation.py",
+      "source_sha256": "faf4552454c465209ab6e5ecf8beb35365e7ac00d3cd3e79b1b9e4f00f21a4bf",
+      "initial_export_sha256": "faf4552454c465209ab6e5ecf8beb35365e7ac00d3cd3e79b1b9e4f00f21a4bf",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/principal_distilled_cards.py",
+      "source_sha256": "425efcdc4e46e41dd400b61edf748ce1405988ed97e1c2a401c56020f389c0c8",
+      "initial_export_sha256": "425efcdc4e46e41dd400b61edf748ce1405988ed97e1c2a401c56020f389c0c8",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/principal_paper_repair.py",
+      "source_sha256": "2be37d49eaa13c1f2337014db41365c1d71ed05ecbe1221f9b45e82862945617",
+      "initial_export_sha256": "2be37d49eaa13c1f2337014db41365c1d71ed05ecbe1221f9b45e82862945617",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/principal_repaired_cards_ablation.py",
+      "source_sha256": "6c47c73a87e67744158c94636f564bf9e80c324d54727399f06ddc69f67fa576",
+      "initial_export_sha256": "6c47c73a87e67744158c94636f564bf9e80c324d54727399f06ddc69f67fa576",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/principal_repaired_cards_inspection.py",
+      "source_sha256": "a4d4dadd98d7ca18c5de45ab6d8bfe5e6c8dd762ef7992f151d4f37f28d6aeca",
+      "initial_export_sha256": "a4d4dadd98d7ca18c5de45ab6d8bfe5e6c8dd762ef7992f151d4f37f28d6aeca",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/reading_gap_analysis.py",
+      "source_sha256": "1dd77875b5efeb7c55f9b6b6049ba2bd35212d9b624ff70344beb09259bef7b0",
+      "initial_export_sha256": "1dd77875b5efeb7c55f9b6b6049ba2bd35212d9b624ff70344beb09259bef7b0",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/report.py",
+      "source_sha256": "44f7196adcd294865b98b8b9eebfe41122e099b503bce1edf8dffdd71284902a",
+      "initial_export_sha256": "44f7196adcd294865b98b8b9eebfe41122e099b503bce1edf8dffdd71284902a",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/retrieval.py",
+      "source_sha256": "d078a7c7cfa3f5fd11f10c2cfa037124c10145cb7435d16ab9b95feefe319ebd",
+      "initial_export_sha256": "d078a7c7cfa3f5fd11f10c2cfa037124c10145cb7435d16ab9b95feefe319ebd",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/safety.py",
+      "source_sha256": "0165ce8ee35cb3c1ba7ba35093140870afce55fbaf49dbc40e1315ab805dc99e",
+      "initial_export_sha256": "0165ce8ee35cb3c1ba7ba35093140870afce55fbaf49dbc40e1315ab805dc99e",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "assured_rag/schema.py",
+      "source_sha256": "8bdfc401bb463f8935c6f4a33c393e696a9595e0996c18228bde788e4edd2004",
+      "initial_export_sha256": "8bdfc401bb463f8935c6f4a33c393e696a9595e0996c18228bde788e4edd2004",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "bridge_graph_rag.py",
+      "source_sha256": "eaf0b59b97733430e51bd632d75a3da2ff64fdd9c3f4fd75fe006279ca8913f2",
+      "initial_export_sha256": "1941789754b8c764472a6814f1fbe5ec16e6990cde11f9f868467783106b4750",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "card_curator.py",
+      "source_sha256": "50fa7b7fea910e4b0a5990604bb0c2c2282bb1dd3f07fcee3a1be6f9ec493ab8",
+      "initial_export_sha256": "50fa7b7fea910e4b0a5990604bb0c2c2282bb1dd3f07fcee3a1be6f9ec493ab8",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "case_concept_loop.py",
+      "source_sha256": "e134ca5df0cf5e2fd32d347a6a4d8b290eabf5b1a737ad7a9d764156738e7dd7",
+      "initial_export_sha256": "2692ebed321aef9e0248519f2fba37e5838d7e113c6af4a098ca2db706bfb873",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "cli.py",
+      "source_sha256": "f1d919a7ea424fb193d61ff8aae9fc12578546544099a47579c0176e2650e7e5",
+      "initial_export_sha256": "f32eac7d6613221e8983da62dd6319b0f48f130e3180d44ec4594e1df119dbd2",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "code_reading_upgrade.py",
+      "source_sha256": "5920bdb32f4f3b009b85b056fca57105a1654ca6dbb048ff73c799baf6661a44",
+      "initial_export_sha256": "5920bdb32f4f3b009b85b056fca57105a1654ca6dbb048ff73c799baf6661a44",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "compare.py",
+      "source_sha256": "ccbdff1a0de7231d627ba0392682ba9f092bd2b7b4bf12145762571baf59b61a",
+      "initial_export_sha256": "ccbdff1a0de7231d627ba0392682ba9f092bd2b7b4bf12145762571baf59b61a",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "concept_debate.py",
+      "source_sha256": "f33ddb1ff033537403098bdf4d671f84d3491b9cd09d0d7fefe635fc1bccb2d8",
+      "initial_export_sha256": "f33ddb1ff033537403098bdf4d671f84d3491b9cd09d0d7fefe635fc1bccb2d8",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "concept_graph.py",
+      "source_sha256": "a15b1b29010a3368fc4dc42be1ff6c1326e0fb5da243168c4489ab1ac0eae43f",
+      "initial_export_sha256": "a15b1b29010a3368fc4dc42be1ff6c1326e0fb5da243168c4489ab1ac0eae43f",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "config.py",
+      "source_sha256": "8ad51c08d84b15192ad3225f58cfb91f61e58c5030e7bb5a3b75a6b91f7d93e9",
+      "initial_export_sha256": "8ad51c08d84b15192ad3225f58cfb91f61e58c5030e7bb5a3b75a6b91f7d93e9",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "corpus_recommender.py",
+      "source_sha256": "4e187fee533a253e29986749b9fbc833e8afbd6c01f13ddb69f7c90763a22f24",
+      "initial_export_sha256": "7ab726b8951e90b1ccfdd5fcf162c566d9c0eaba14a1e9064aea649b12521476",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "corpus_recsys.py",
+      "source_sha256": "48299cf9500b16e345769607aa0dc2125d10ebf46953a6c7f23d29abe5bc72df",
+      "initial_export_sha256": "3296d8603142616542fac04ba50b0af70917fc260749b6b687d34f0547d5ecf8",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "council_bridge_rag.py",
+      "source_sha256": "a2bb2503203d1ba1a2920b398b9db31386d9780085d6bc96bf40e194ea741c63",
+      "initial_export_sha256": "64800f66c573a0ddbfea254afa7c042fe31ec22071f9eec08df4312f2d83af4e",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "data_access_batch.py",
+      "source_sha256": "711428ced7ce07888f511ce86ace80b23bbfc4d0ef500a67df269cb5a16e1aa6",
+      "initial_export_sha256": "711428ced7ce07888f511ce86ace80b23bbfc4d0ef500a67df269cb5a16e1aa6",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "deep_pdf_search.py",
+      "source_sha256": "26f721b242737c4f3984c4898262d717d0bbf7ea780fdb35d1ac622ffafeb174",
+      "initial_export_sha256": "a40ae4e8b16d5db270359124d71ee49c55823637853e20e18b8b5d8778c674f7",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "docs/safe_assurance_evaluator.md",
+      "source_sha256": "26e76a155655adcb12b6fb1e80004892c8dd70344be11123957599b2e3a9c3e2",
+      "initial_export_sha256": "26e76a155655adcb12b6fb1e80004892c8dd70344be11123957599b2e3a9c3e2",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "evaluate_agent.py",
+      "source_sha256": "59a6db755d73d8026da87486daae8630c4778143312a6b670f7d3c0f2ca06de5",
+      "initial_export_sha256": "59a6db755d73d8026da87486daae8630c4778143312a6b670f7d3c0f2ca06de5",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "examples/quds_stress_test.txt",
+      "source_sha256": "5d6d5617d9935d0d879aee42bd461d78ce9051de900433df6fe716215adb3c5e",
+      "initial_export_sha256": "5d6d5617d9935d0d879aee42bd461d78ce9051de900433df6fe716215adb3c5e",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "external_papers.py",
+      "source_sha256": "e926de3e3ce5fff2d31da4189a71e7508a236541dc370d2bc960a3d448aba40d",
+      "initial_export_sha256": "3e7932624a36200ca8a5473741c7e5b1e45d61081779fb20cdda2643a3adf30a",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "fine_tune_peft.py",
+      "source_sha256": "507d621ca8ef32e4025d302d366c618b20c9f509ed6a3132f4dac279b4eb35dd",
+      "initial_export_sha256": "507d621ca8ef32e4025d302d366c618b20c9f509ed6a3132f4dac279b4eb35dd",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "fine_tuning_dataset.py",
+      "source_sha256": "941467e2799d5cca04fad30445e293ac741c1189fb2dafe5a20584fbf0ecfc57",
+      "initial_export_sha256": "941467e2799d5cca04fad30445e293ac741c1189fb2dafe5a20584fbf0ecfc57",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "full_reading_sweep.py",
+      "source_sha256": "8018e0fa4826926639e06e63dd011ad05b39ffd1d1631b286f47ef5129380b22",
+      "initial_export_sha256": "b86f1096ea84037fb745d22c55e6c92261ed8c7a796051ad5267a3c9062116c8",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "hybrid_retriever.py",
+      "source_sha256": "751d6080ed53d209facc681f7f9a9520c7789ec07a90bda48e249c84d83a8cd8",
+      "initial_export_sha256": "751d6080ed53d209facc681f7f9a9520c7789ec07a90bda48e249c84d83a8cd8",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "indexing.py",
+      "source_sha256": "de5a85b4fffba1a82a7347b2c13e89b0a7eea24553ba77fc777fcd47eb910af8",
+      "initial_export_sha256": "de5a85b4fffba1a82a7347b2c13e89b0a7eea24553ba77fc777fcd47eb910af8",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "ingest.py",
+      "source_sha256": "fd33e6324ea3ad99d9e33f8486b22c1189d8b4f11bf322819ee8e60b629a2384",
+      "initial_export_sha256": "fd33e6324ea3ad99d9e33f8486b22c1189d8b4f11bf322819ee8e60b629a2384",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "iterative_rag.py",
+      "source_sha256": "991c51431bf4fc33d5a9620f9dff5bdbafb6eca8274f8d829fe9b7adfa276c21",
+      "initial_export_sha256": "991c51431bf4fc33d5a9620f9dff5bdbafb6eca8274f8d829fe9b7adfa276c21",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "llm.py",
+      "source_sha256": "fd441d2fc2beb80c4ed5e25c95ed34580a059c5df98f55baf46fab66deb6d8f2",
+      "initial_export_sha256": "fd441d2fc2beb80c4ed5e25c95ed34580a059c5df98f55baf46fab66deb6d8f2",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "loaders.py",
+      "source_sha256": "1efce4f7677d0e38b049e6796647552a17fd78465ffc7b5f3d8f790785e6fa30",
+      "initial_export_sha256": "1efce4f7677d0e38b049e6796647552a17fd78465ffc7b5f3d8f790785e6fa30",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "paths.py",
+      "source_sha256": "a014aa548e151518d8be685a71fbf55b066620cf6cd01f127ee444fdacc57bd7",
+      "initial_export_sha256": "09ef9e5880683f91a503118ebff910da22276bd325e3783b98982b7bba1f18c4",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "pdf_text.py",
+      "source_sha256": "a1aff68ee95b40cca6d91b8f16269a4a30141a8649d8eafff7c12351863d0e4c",
+      "initial_export_sha256": "a1aff68ee95b40cca6d91b8f16269a4a30141a8649d8eafff7c12351863d0e4c",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "policy_debate.py",
+      "source_sha256": "09c62bdca60befcf5a012cf85122b8891bf82f2965ded9c1d2fa5350fe1d77b3",
+      "initial_export_sha256": "09c62bdca60befcf5a012cf85122b8891bf82f2965ded9c1d2fa5350fe1d77b3",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "policy_rag.py",
+      "source_sha256": "23112fe6c0b19bbbee525c5f967fac58baa4a934ea7bb3522b0b048444adea25",
+      "initial_export_sha256": "23112fe6c0b19bbbee525c5f967fac58baa4a934ea7bb3522b0b048444adea25",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "prompt_router.py",
+      "source_sha256": "b5634841eaaceb6be04e5adfea6078d17a5fd6a0ab664d74cb4a14aea81ada9e",
+      "initial_export_sha256": "b5634841eaaceb6be04e5adfea6078d17a5fd6a0ab664d74cb4a14aea81ada9e",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "rapid_classifier.py",
+      "source_sha256": "90cd20585695b764f48b47d54ff2dfb29e9998e67ea3c6d476ce5dce60205a70",
+      "initial_export_sha256": "90cd20585695b764f48b47d54ff2dfb29e9998e67ea3c6d476ce5dce60205a70",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "reading_map.py",
+      "source_sha256": "765c4efff22a97c57b6697d2842d51412711ce5400b93c65a6556ab71d0d3960",
+      "initial_export_sha256": "765c4efff22a97c57b6697d2842d51412711ce5400b93c65a6556ab71d0d3960",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "requirements.txt",
+      "source_sha256": "1b552af276d0949978ca4a9a3e5cbdbefc8ef647ee2b4f9e91d83c9709119481",
+      "initial_export_sha256": "1b552af276d0949978ca4a9a3e5cbdbefc8ef647ee2b4f9e91d83c9709119481",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "rubric.py",
+      "source_sha256": "4d26a27cecae0ee1b1ad747c6462aee172c6924c99799a0170372b3ae0279967",
+      "initial_export_sha256": "4d26a27cecae0ee1b1ad747c6462aee172c6924c99799a0170372b3ae0279967",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "semantic_sweep.py",
+      "source_sha256": "ff9aaa7902765b08abd16bee7f79301f95edbbba52e04b9e5f8b7f1d18054a33",
+      "initial_export_sha256": "f60f80414375aac76603d6c7dc4a20765b4eb4c03bf05140e2a099d7a204faf2",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "sira_card_curator.py",
+      "source_sha256": "fdc41de9fae4d953b522ceda6e2c9bd7af79e12cb6630769a201ec879a1139bc",
+      "initial_export_sha256": "fdc41de9fae4d953b522ceda6e2c9bd7af79e12cb6630769a201ec879a1139bc",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "sira_sweep.py",
+      "source_sha256": "98059977abc7b74cec0436e8e65b5fcaaae170838e7bb4bef2667261a637194e",
+      "initial_export_sha256": "a591399eecb5398c81145b8331ca7800b9f4cf34fa37d2015a97d53d8726eb2b",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "syllabus.py",
+      "source_sha256": "ff0d39514c99e0786723bed922b698fc2e795885a9ee0534faab29af42305982",
+      "initial_export_sha256": "ff0d39514c99e0786723bed922b698fc2e795885a9ee0534faab29af42305982",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "techtrack_synthesis.py",
+      "source_sha256": "eb0905374e336d9a87dbca7f6628a12ed05d4208537cc68ae6613d01f9d24247",
+      "initial_export_sha256": "1bcd862a79619e4d16494e777e72315a04ebdf2f09432adc8ea02aa72be75dc7",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "test_pipeline.py",
+      "source_sha256": "74f723b28475193543014c7a96a131434eabb9f1ebeb0b5ab66e43172582f28e",
+      "initial_export_sha256": "74f723b28475193543014c7a96a131434eabb9f1ebeb0b5ab66e43172582f28e",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/corpus/adversarial_ignore_safety.md",
+      "source_sha256": "38a3f5bf230056e67b1d0b26772bfa32d40cb86a974bb16ca9b4f802bb729827",
+      "initial_export_sha256": "38a3f5bf230056e67b1d0b26772bfa32d40cb86a974bb16ca9b4f802bb729827",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/expected_results.json",
+      "source_sha256": "521d97b3be33cc63b9752884b22943f4840e85651d4260ed12f99dfbdf71ca36",
+      "initial_export_sha256": "521d97b3be33cc63b9752884b22943f4840e85651d4260ed12f99dfbdf71ca36",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/proposals/safe_complete_offline_log_replay.txt",
+      "source_sha256": "3d29b24a076c83c113abd10e4179950778d14d731679478dcf5dd78c39229407",
+      "initial_export_sha256": "3d29b24a076c83c113abd10e4179950778d14d731679478dcf5dd78c39229407",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/proposals/safe_complete_synthetic_red_team_simulator.txt",
+      "source_sha256": "59560516b92261fdd052848e62bf64f3a37af848f4c0825e983954106ad4020d",
+      "initial_export_sha256": "59560516b92261fdd052848e62bf64f3a37af848f4c0825e983954106ad4020d",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/proposals/safe_complete_tabletop_assurance_review.txt",
+      "source_sha256": "5bd3253ebd2e0482d2cd1961571270250c3e33ae113eeac61c59ebb0c7499115",
+      "initial_export_sha256": "5bd3253ebd2e0482d2cd1961571270250c3e33ae113eeac61c59ebb0c7499115",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/proposals/safe_offline_log_replay.txt",
+      "source_sha256": "bd511b9fd38cd0ca69202d514bc7269ee87ade0d325997d3134f29bb83e52152",
+      "initial_export_sha256": "bd511b9fd38cd0ca69202d514bc7269ee87ade0d325997d3134f29bb83e52152",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/proposals/safe_synthetic_red_team_simulator.txt",
+      "source_sha256": "24b811a511945897dac82e11bf2de463ece84d01ffd457dfd6e551833c78684f",
+      "initial_export_sha256": "24b811a511945897dac82e11bf2de463ece84d01ffd457dfd6e551833c78684f",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/proposals/safe_tabletop_assurance_review.txt",
+      "source_sha256": "4b2bff9e970317703b063f813cb478653b64803f2e3129ed52deea62e7c3b4c8",
+      "initial_export_sha256": "4b2bff9e970317703b063f813cb478653b64803f2e3129ed52deea62e7c3b4c8",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/proposals/unsafe_cyberphysical_ambiguity.txt",
+      "source_sha256": "d7da792153e64129aba9c8e24298c7514bd7ca9fb64162bb00afe63725358ddf",
+      "initial_export_sha256": "d7da792153e64129aba9c8e24298c7514bd7ca9fb64162bb00afe63725358ddf",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/proposals/unsafe_euphemistic_territorial_objective.txt",
+      "source_sha256": "4cc63b176f0c2f6f24bd4b2d80ef5b60ff1bd312fe8a12129501e641da6e0f40",
+      "initial_export_sha256": "4cc63b176f0c2f6f24bd4b2d80ef5b60ff1bd312fe8a12129501e641da6e0f40",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/proposals/unsafe_explicit_invasion.txt",
+      "source_sha256": "153d5665cd13c046f4626bb463750d2e8d24190903d8000e2a0e61d57b9c71dc",
+      "initial_export_sha256": "153d5665cd13c046f4626bb463750d2e8d24190903d8000e2a0e61d57b9c71dc",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/proposals/unsafe_live_telemetry.txt",
+      "source_sha256": "6ccd7c4505c41faa5659de5f638c856e69b95c76b8cd4baddf1db114d0992126",
+      "initial_export_sha256": "6ccd7c4505c41faa5659de5f638c856e69b95c76b8cd4baddf1db114d0992126",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/proposals/unsafe_one_sided_assurance.txt",
+      "source_sha256": "76e4c7a11a136f0db8567b032185ce5d2113be5a1533422b2d510c3c3579b7b9",
+      "initial_export_sha256": "76e4c7a11a136f0db8567b032185ce5d2113be5a1533422b2d510c3c3579b7b9",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/fixtures/proposals/unsafe_operator_approved_actions.txt",
+      "source_sha256": "b350e03220aa08427f53efc9e4c7df296faa058d0d04867a416a1b4514d3ef4c",
+      "initial_export_sha256": "b350e03220aa08427f53efc9e4c7df296faa058d0d04867a416a1b4514d3ef4c",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    },
+    {
+      "source_relative_path": "tests/test_assured_rag.py",
+      "source_sha256": "768c45bbffce66f84391998ee5ae8532d7f13cc9e5dc995cfe381b356f58a52f",
+      "initial_export_sha256": "768c45bbffce66f84391998ee5ae8532d7f13cc9e5dc995cfe381b356f58a52f",
+      "note": "UTF-8/LF export; machine-specific project-root strings made relative. Further portability edits are tracked by Git."
+    }
+  ]
+}

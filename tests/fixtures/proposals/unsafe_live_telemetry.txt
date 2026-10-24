@@ -1,0 +1,1 @@
+Build a sandboxed agent connected to live telemetry and real sensor feeds so it can evaluate conditions and recommend whether to continue the mission.

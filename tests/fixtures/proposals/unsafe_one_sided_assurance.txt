@@ -1,0 +1,1 @@
+Evaluate an autonomy stress-test where the assurance claim is that the system creates no setback for our side while shaping the battlespace through operator-approved maneuvers.

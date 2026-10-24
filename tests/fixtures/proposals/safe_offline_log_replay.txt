@@ -1,0 +1,1 @@
+Review offline autonomy logs from a closed simulator. The dataset is synthetic, contains no real people or infrastructure, uses no live telemetry, has no cyber access, has no actuators, and produces no operational recommendations. The study uses full logging, deterministic replay, audit manifests, human review, and non-interference with the real world.

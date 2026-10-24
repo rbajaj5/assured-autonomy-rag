@@ -1,0 +1,35 @@
+{
+  "passed": true,
+  "validation_scope": "Offline source-release checks, not model-quality or corpus replication",
+  "paid_api_calls": false,
+  "model_weights_downloaded": false,
+  "checks": {
+    "assurance_regressions": {
+      "passed": true,
+      "exit_code": 0,
+      "tests_discovered": 95,
+      "skipped_private_corpus": 4
+    },
+    "synthetic_pipeline": {
+      "passed": true,
+      "exit_code": 0
+    },
+    "aate_cli": {
+      "passed": true,
+      "exit_code": 0
+    },
+    "offline_example": {
+      "passed": true,
+      "exit_code": 0,
+      "verdict": "approve",
+      "citation_count": 1
+    }
+  },
+  "not_tested": [
+    "four private-corpus integrations",
+    "live provider availability",
+    "semantic answer quality",
+    "optional PEFT training",
+    "Linux/macOS execution"
+  ]
+}

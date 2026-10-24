@@ -1,0 +1,21 @@
+# Core (always required)
+numpy>=1.26
+faiss-cpu>=1.8
+sentence-transformers>=2.7
+pypdf>=4.0
+PyMuPDF>=1.24
+beautifulsoup4>=4.12
+requests>=2.31
+seaborn>=0.13
+
+# Optional LLM SDKs — install whichever provider(s) you intend to use
+anthropic>=0.34   # for --provider anthropic
+openai>=1.30      # for --provider openai
+mistralai>=1.0    # for --provider mistral
+
+# Optional PEFT / reranking stack
+transformers>=4.43
+peft>=0.11
+bitsandbytes>=0.43; platform_system != "Windows"
+datasets>=2.20
+accelerate>=0.33
