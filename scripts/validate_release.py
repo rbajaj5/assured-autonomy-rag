@@ -33,7 +33,7 @@ def main() -> int:
         result = {"passed": done.returncode == 0, "exit_code": done.returncode}
         if name == "assurance_regressions":
             count = re.search(r"Ran (\d+) tests", output)
-            skipped = re.search(r"OK \(skipped=(\d+)\)", output)
+            skipped = re.search(r"skipped=(\d+)", output)
             result.update(tests_discovered=int(count[1]) if count else None, skipped_private_corpus=int(skipped[1]) if skipped else 0)
         if name == "offline_example" and done.returncode == 0:
             payload = json.loads(done.stdout)

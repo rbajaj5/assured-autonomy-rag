@@ -4,3 +4,5 @@ matplotlib>=3.8
 pandas>=2.1
 seaborn>=0.13
 pytest>=8
+# Imported only to patch the client in offline regression tests.
+openai>=1.30
